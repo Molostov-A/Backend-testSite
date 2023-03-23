@@ -1,6 +1,0 @@
-{
-    "backendurl": "http://localhost:5000",
-    "authURL": "/authenticate",
-    "testUsername": "please_insert_here_username",
-    "testUserPassword": "please_insert_here_password"
-}
